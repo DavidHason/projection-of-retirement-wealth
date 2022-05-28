@@ -17,7 +17,7 @@ Project Objective:
 Our goal is to see if we can predict an individual's account balance in retired age 67 years within an acceptable increase or decrease in comparison with the amount of current account balance. we will predict account balance in age 67 based on the amount of median growth of the account balance in previous years and curent customer's account balance.
 
 ## Target Feature:
-Our target feature is account balance in age 67 years.
+Our target feature is account balance in age 67.
 
 ## Insights:
 The account balance of those customers is decreasing all years from 2013 to 2019 makes the projection of account balance nonrealistic and accurate based on our method of median growth in retired age not realistic, however using the median of previous balances is to specify a overal view of balance history of customers inevitable since there are a lot of outlier data points.(see below graphs)
