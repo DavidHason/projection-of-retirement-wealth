@@ -1,6 +1,6 @@
 # Projection of Retirement Wealth - Predicting your account balance in retiremnt age
 ## Introduction
-The objective of this training estimate (task-1) is to predict the account balance of an bank customer with dataset in 2016 and 2017 using Pythonv 3.7. The dataset wa sourced from the CFD which is one of the largest company in supperannuation in Australia. This report is organized as follows:
+The objective of this training estimate is to predict the account balance of an bank customer with dataset in 2016 and 2017 using Pythonv 3.7. The dataset wa sourced from the CFD which is one of the largest company in supperannuation in Australia. This report is organized as follows:
 
 1- Overview section describes the dataset used and the features in this dataset.
 
